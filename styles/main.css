@@ -1,0 +1,20 @@
+html{
+	background-image: url("../images/kr2.png");
+}
+body{
+	color: black;
+	text-align: center;
+}
+h1{
+	background-color: blue;
+	padding: 0;
+}
+li,p,img{
+	text-align: center;
+	color: red;
+background-color: #0000a0;
+	font-size: xx-large;
+}
+img{
+	justify-content:unset;
+}
