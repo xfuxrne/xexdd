@@ -1,5 +1,5 @@
 html{
-	background-image: url("../images/kr2.png");
+	background-image: url("../images/kr2.webp");
 }
 body{
 	color: black;
@@ -17,4 +17,7 @@ background-color: #0000a0;
 }
 img{
 	justify-content:unset;
+}
+a {
+	color: orange;
 }
