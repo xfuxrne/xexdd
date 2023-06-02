@@ -1,5 +1,6 @@
 html{
 	background-image: url("../images/kr2.webp");
+	background-size: cover;
 }
 body{
 	color: black;
